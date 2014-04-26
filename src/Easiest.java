@@ -1,5 +1,6 @@
 /**
- *
+ *Print one asterisk to the console.
+ *Example: *
  */
 public class Easiest {
 
